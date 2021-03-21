@@ -16,3 +16,5 @@ FROM_ACCOUNT=<0x Binance Smart Chain Address/Account>
 RINKEBY_RPC_URL=<Infura Rinkeby endpoint>
 4. In root folder, run command "node server.js"
 5. Use browser to create NFT token for digital artwork with URL, for example, http://localhost:4000/mint?toaddress=<to adddress>&tokenuri=<ipfs metadata json uri> .
+
+To access the front end - cd into the src folder and see the readme file.
