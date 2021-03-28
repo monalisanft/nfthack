@@ -1,0 +1,19 @@
+{
+  "name": "nfthack",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.9",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-dropzone": "^11.3.1",
+    "react-dropzone-uploader": "^2.11.0",
+    "react-switch": "^6.0.0",
+    "uploader": "^0.0.3-3"
+  }
+}
