@@ -22,5 +22,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 Please feel free to visit our landing page. Something great is coming soon :)
 
+[Monaliza](https://monaliza.app/)
+
 <img width="958" alt="MonaSS" src="https://user-images.githubusercontent.com/13626562/115681115-1fb91f80-a34c-11eb-8bcd-e9ceba870724.png">
 
